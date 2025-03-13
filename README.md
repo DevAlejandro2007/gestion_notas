@@ -1,3 +1,6 @@
+![Static Badge](https://img.shields.io/badge/Python-3.13.2-blue?logo=Python&logoColor=blue)
+
+
 # 📚 Sistema de Gestión de Notas
 
 ¡Bienvenido al Sistema de Gestión de Notas! Este proyecto es un programa CLI (Interfaz de Línea de Comandos) diseñado para registrar, observar y editar las notas de estudiantes de manera sencilla y efectiva.
