@@ -1,8 +1,8 @@
-#📚 Sistema de Gestión de Notas
+# 📚 Sistema de Gestión de Notas
 
 ¡Bienvenido al Sistema de Gestión de Notas! Este proyecto es un programa CLI (Interfaz de Línea de Comandos) diseñado para registrar, observar y editar las notas de estudiantes de manera sencilla y efectiva.
 
-##✒️ Descripción
+## ✒️ Descripción
 
 Este sistema permite:
 
@@ -26,7 +26,7 @@ Este proyecto está desarrollado con un enfoque educativo, que demuestra:
 
 - 📖 Documentación técnica.
 
-#📁 Estructura del Programa
+# 📁 Estructura del Programa
 
 1. Definición de tipos de datos.
 
@@ -36,7 +36,7 @@ Este proyecto está desarrollado con un enfoque educativo, que demuestra:
 
 4. Flujo principal de ejecución.
 
-#🚀 Cómo usar el sistema
+# 🚀 Cómo usar el sistema
 
 Clona este repositorio en tu máquina local.
 
@@ -46,41 +46,41 @@ python gestion_notas.py
 ```
 Sigue las instrucciones del menú interactivo para gestionar notas.
 
-#🔑 Funcionalidades principales
+# 🔑 Funcionalidades principales
 
-##📥 Insertar Notas
+## 📥 Insertar Notas
 
 Permite registrar notas para estudiantes nuevos o existentes.
 
 Almacena las notas en un diccionario con el nombre del estudiante como clave.
 
-##📤 Ver Notas de un Estudiante
+## 📤 Ver Notas de un Estudiante
 
 Muestra las notas registradas de un estudiante en particular.
 
 Proporciona mensajes de error si el estudiante no existe.
 
-##✏️ Editar Notas de un Estudiante
+## ✏️ Editar Notas de un Estudiante
 
 Permite modificar notas previamente registradas de un estudiante.
 
 Solicita la posición específica de la nota que se desea modificar.
 
-##❌ Salir
+## ❌ Salir
 
 Permite salir del programa de manera segura.
 
-##🔧 Tecnologías utilizadas
+## 🔧 Tecnologías utilizadas
 
 Python 🐍
 
 Programación estructurada.
 
-#📌 Autor
+# 📌 Autor
 
 Alejandro Rojas📅 Fecha: 12/02/25
 
-#📜 Licencia
+# 📜 Licencia
 
 Este proyecto es de uso libre con fines educativos. Puedes modificarlo y distribuirlo libremente. 😊
 
